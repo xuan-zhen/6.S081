@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "__config": "c",
+        "string.h": "c",
+        "user.h": "c",
+        "__string": "c",
+        "atomic": "c",
+        "functional": "c",
+        "locale": "c",
+        "algorithm": "c",
+        "stat.h": "c",
+        "fcntl.h": "c"
+    }
+}
